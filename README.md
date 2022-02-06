@@ -7,7 +7,7 @@
 
 **Proposed by:** `Sean Patrick Myrick (@seanpm2001)` **on:** `2022, Thursday, January 27th at 22:25:28 (10:25:28 pm PST)`
 
-**Last revised on:** `2022, Friday January 28th at 4:31 pm`
+**Last revised on:** `2022, Saturday, February 5th at 11:20 pm`
 
 _A computer that can hold at least 1 billion copies of the entire Internet (as of 2022, Thursday, January 27th) and fit inside a single datacenter, or a single 3 meter by 3 meter brick (expanded to a 30 meter by 30 meter brick, and possibly also to a 300 meter by 300 meter brick, or a 3 kilometer by 3 kilometer brick, due to logical and theoretical limitations)_
 
@@ -21,9 +21,17 @@ _A computer that can hold at least 1 billion copies of the entire Internet (as o
 
 **Size:** | **somewhere between:** `3x3x0.5 meters`, **and** `3x3x0.5 kilometers` _(An actual cube would be too tall, it is more of a slab)_
 
-**Compatible operating systems:** `Linux`, `UNIX-like`, `other ZFS/OpenZFS-compatible operating systems` _(All current and past versions of Windows are not compatible as of 2022 Friday, January 28th)_
+**Compatible operating systems:** `Linux`, `UNIX-like`, `other ZFS/OpenZFS-compatible operating systems` _(All current and past versions of Windows are not compatible as of 2022 Saturday, February 5th) [#1](#Ref1)
 
 **Storage capacity:** `~500,000,000,000,000,000,000,000,000,000 bytes (~500 Nonillion bytes, or ~500.00 geopbytes)`
+
+## Manufacturers
+
+None yet. This idea needs a lot more research before it can start being manufacturered, and it will be very expensive to make.
+
+## Form factor
+
+Assuming a Silicon atom is the only atom used, and that 1 silicon atom is equivalent to 111 picometers ([0.111 nanometers](https://duckduckgo.com/?q=111+picometers+to+nanometers&t=ffab&ia=answer)) the form factor of the Decicube is 0.111 nanometers.
 
 ## Grain of sand formula
 
@@ -85,25 +93,39 @@ _A computer that can hold at least 1 billion copies of the entire Internet (as o
 
 **Note:** `need better sources`
 
-1. https://askinguk.com/how-many-atoms-in-a-grain-of-sand/
+1. [https://askinguk.com/how-many-atoms-in-a-grain-of-sand/](https://askinguk.com/how-many-atoms-in-a-grain-of-sand/)
 
 2. Can't find my Quora source again.
 
-3. https://www.reddit.com/r/programming/comments/a41xs/what_comes_after_yottabyte/
+3. [https://www.reddit.com/r/programming/comments/a41xs/what_comes_after_yottabyte/](https://www.reddit.com/r/programming/comments/a41xs/what_comes_after_yottabyte/)
 
 4. Can't find my Scratch source again
 
-5. https://github.com/seanpm2001/Metric-System/tree/main/Improvements/Meters/SI_Meters
+5. [https://github.com/seanpm2001/Metric-System/tree/main/Improvements/Meters/SI_Meters/](https://github.com/seanpm2001/Metric-System/tree/main/Improvements/Meters/SI_Meters/)
 
-6. No other sources at the moment
+6. [https://en.wikipedia.org/wiki/Silicon/](https://en.wikipedia.org/wiki/Silicon/)
+
+7. [#Ref1](#Ref1) [https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview#support-for-large-volumes](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview#support-for-large-volumes)
+
+8. [https://duckduckgo.com/?q=111+picometers+to+nanometers&t=ffab&ia=answer](https://duckduckgo.com/?q=111+picometers+to+nanometers&t=ffab&ia=answer)
+
+9. No other sources at the moment
+
+###### Ref1
+
+"NTFS can support volumes as large as 8 petabytes on Windows Server 2019 and newer and Windows 10, version 1709 and newer (older versions support up to 256 TB)"
+
+Source: [Microsoft Server documentation](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview#support-for-large-volumes)
+
+The DeciCube holds far more than 8 petabytes, and is simply not compatible for this reason. OpenZFS and ZFS are currently the only options for this hardware concept.
 
 ---
 
-**Article version:** `2 (2022, Friday, January 28th at 4:31 pm)`
+**Article version:** `3 (2022, Saturday, February 5th at 11:20 pm)`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `111`
+**Line count (including blank lines and compiler line):** `133`
 
 **Article language:** `English (US)`
 
