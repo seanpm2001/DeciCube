@@ -1,0 +1,8 @@
+== Updates to DeciCube
+++ ### DCube structure
+++ The DCube structure is the concept of the building blocks of the hardware. DBlocks are blocks ranging from 3 inch to 3 inch bricks to a bigger size.
+++ The main structure is called the DCube. Components connecting to the device are known just as components (such as a power source)
+++ ### USB
+++ I don't know how to support USB yet. The transfer to and from the DeciCube is currently needing work.
+++ ### As a max storage device
+++ Since this technology works at the technological/theoretical limits, it is known as a max storage device. However, if we somehow end up discovering matter smaller than what we know makes up an atom and can work with it, the term ultramax, or umax is still reserved for future use.
