@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+The DeciCube is a proposed ultra storage device, capable of holding over 500 million copies of the entire 2021 Internet.
