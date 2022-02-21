@@ -7,7 +7,7 @@
 
 **Proposed by:** `Sean Patrick Myrick (@seanpm2001)` **on:** `2022, Thursday, January 27th at 22:25:28 (10:25:28 pm PST)`
 
-**Last revised on:** `2022, Monday, February 7th at 12:24 am`
+**Last revised on:** `2022, Monday, February 21st at 12:40 am`
 
 _A computer that can hold at least 1 billion copies of the entire Internet (as of 2022, Thursday, January 27th) and fit inside a single datacenter, or a single 3 meter by 3 meter brick (expanded to a 30 meter by 30 meter brick, and possibly also to a 300 meter by 300 meter brick, or a 3 kilometer by 3 kilometer brick, due to logical and theoretical limitations)_
 
@@ -25,6 +25,12 @@ _A computer that can hold at least 1 billion copies of the entire Internet (as o
 
 **Storage capacity:** `~500,000,000,000,000,000,000,000,000,000 bytes (~500 Nonillion bytes, or ~500.00 geopbytes)`
 
+**Processor type:** `128x, 256x128`
+
+**Operating system:** `Ubuntu 20.04 LTS and later` `Fedora 36 and later` `Arch Linux 2022.01.* and later` `Oracle Solaris` `Any other operating system that is fully compatible with a 128 bit or 256 bit file system`
+
+**Pairs well with:** [CompuBunker](https://github.com/CompuBunker/) /  [Compunker](https://github.com/Compunker/)
+
 ## Manufacturers
 
 None yet. This idea needs a lot more research before it can start being manufacturered, and it will be very expensive to make.
@@ -37,9 +43,37 @@ Research is needed into the power consumption and demands of this project. The d
 
 This device is expected to be extremely heavy (weighing over 1 gigaton, or 1,000,000,000 tons) and it is currently unknown how it will be moved around.
 
+### DCube structure
+
+The DCube structure is the concept of the building blocks of the hardware structure. DBlocks are blocks ranging from 3 inch to 3 inch bricks to a bigger size (not yet determined)
+
+The main structure is called the DCube. Components connecting to the device are known just as components (such as a power source)
+
+### USB
+
+I don't know how to support USB yet. The transfer to and from the DeciCube is currently needing work.
+
+### As a max storage device
+
+Since this technology works at the technological/theoretical limits, it is known as a max storage device. However, if we somehow end up discovering matter smaller than what we know makes up an atom and can work with it, the term ultramax, or umax is still reserved for future use.
+
 ## Form factor
 
 Assuming a Silicon atom is the only atom used, and that 1 silicon atom is equivalent to 111 picometers ([0.111 nanometers](https://duckduckgo.com/?q=111+picometers+to+nanometers&t=ffab&ia=answer)) the form factor of the Decicube is 0.111 nanometers.
+
+## As a quantum storage device
+
+### Universal reponsibility
+
+The big responsibility for the DeciCube is simply said: DO NOT FILL THE DECICUBE, Don't purposefully write software to fit inside as much of the cube as possible, including but not limited to: Creating Call of Duty (hundreds of gigabytes) releasing 24000+ releases of a programming language like Swift for every individual change (Apple has deleted it since then, but a year ago, it was all there, and it is likely in archive somewhere) making operating systems that use up 32+ gigabytes of space when much less is truly needed. Each individual entry counts, and we have to make sure the DeciCube lasts as long as possible. We can easily make the capacity last 250 years if we are just a little careful and considerate, but we should let it last over 600 years and not be careless.
+
+### Research regarding condensed physics needed
+
+This section is empty.
+
+### Research regarding Fullerine carbon atoms
+
+This section is empty.
 
 ## Grain of sand formula
 
@@ -167,11 +201,11 @@ Reserved for future use.
 
 ---
 
-**Article version:** `4 (2022, Monday, February 7th at 12:24 pm)`
+**Article version:** `5 (2022, Monday, February 21st at 12:40 am)`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `179`
+**Line count (including blank lines and compiler line):** `213`
 
 **Article language:** `English (US)`
 
