@@ -149,6 +149,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "Seanpm2001-Concepts",
+      "name": "Seanpm2001 Concepts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86498650?v=4",
+      "profile": "https://github.com/Seanpm2001-Concepts",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
