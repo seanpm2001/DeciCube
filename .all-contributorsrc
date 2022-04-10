@@ -132,6 +132,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "Seanpm2001-Quantum",
+      "name": "Seanpm2001 Quantum Computing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97201942?v=4",
+      "profile": "https://github.com/Seanpm2001-Quantum",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
