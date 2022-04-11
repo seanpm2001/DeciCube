@@ -387,6 +387,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "DeciCube",
+      "name": "DeciCube research project",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103300117?v=4",
+      "profile": "https://github.com/DeciCube",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
