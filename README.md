@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ---
 
@@ -272,6 +272,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/WacOS/"><img src="https://avatars.githubusercontent.com/u/83519152?v=4?s=100" width="100px;" alt=""/><br /><sub><b>WacOS Development</b></sub></a><br /><a href="https://github.com/seanpm2001/DeciCube/commits?author=WacOS-dev" title="Code">💻</a> <a href="https://github.com/seanpm2001/DeciCube/commits?author=WacOS-dev" title="Documentation">📖</a> <a href="#projectManagement-WacOS-dev" title="Project Management">📆</a> <a href="#security-WacOS-dev" title="Security">🛡️</a> <a href="#data-WacOS-dev" title="Data">🔣</a> <a href="#content-WacOS-dev" title="Content">🖋</a> <a href="#design-WacOS-dev" title="Design">🎨</a> <a href="#maintenance-WacOS-dev" title="Maintenance">🚧</a> <a href="#ideas-WacOS-dev" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/topics/year-of-the-linux-desktop"><img src="https://avatars.githubusercontent.com/u/82623447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Year of the Linux Desktop</b></sub></a><br /><a href="https://github.com/seanpm2001/DeciCube/commits?author=Year-of-the-Linux-desktop" title="Code">💻</a> <a href="https://github.com/seanpm2001/DeciCube/commits?author=Year-of-the-Linux-desktop" title="Documentation">📖</a> <a href="#projectManagement-Year-of-the-Linux-desktop" title="Project Management">📆</a> <a href="#security-Year-of-the-Linux-desktop" title="Security">🛡️</a> <a href="#data-Year-of-the-Linux-desktop" title="Data">🔣</a> <a href="#content-Year-of-the-Linux-desktop" title="Content">🖋</a> <a href="#design-Year-of-the-Linux-desktop" title="Design">🎨</a> <a href="#maintenance-Year-of-the-Linux-desktop" title="Maintenance">🚧</a> <a href="#ideas-Year-of-the-Linux-desktop" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
