@@ -336,6 +336,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "SuperPower-laptops",
+      "name": "SP (Superpower) laptop development",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84601396?v=4",
+      "profile": "https://github.com/seanpm2001/SuperPower-Laptops-Customize",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
