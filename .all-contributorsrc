@@ -353,6 +353,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "WacOS-dev",
+      "name": "WacOS Development",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83519152?v=4",
+      "profile": "https://github.com/seanpm2001/WacOS/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
